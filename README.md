@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masalamind
-- 👀 I’m interested in innovation, ux-ui design, especially in EdTech
+- 👀 I’m interested in designing and building innovative products especially in EdTech
 - 🌱 I’m currently developing software
-- 💞️ I’m looking to collaborate on ui-ux projects as a desinger and as a front-end engineer 
+- 💞️ I will collaborate on projects as a ux/ui designer and front-end engineer 
 - 📫 Reach me at themasalacollective@gmail.com 
 
 <!---
