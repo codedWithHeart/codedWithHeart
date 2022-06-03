@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masalamind
+- 👋 Hi, I’m John Muiruri
 - 👀 I’m interested in designing and building innovative products especially in EdTech
 - 🌱 I’m currently developing software
 - 💞️ I will collaborate on projects as a ux/ui designer and front-end engineer 
