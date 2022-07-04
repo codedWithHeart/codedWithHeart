@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Muiruri
 - 👀 I’m interested in designing and building innovative products especially in EdTech
 - 🌱 I’m currently developing software
-- 💞️ I will collaborate on projects as a ux/ui designer and front-end engineer 
+- 💞️ I will collaborate on projects as a front-end or full-stack engineer 
 - 📫 Reach me at themasalacollective@gmail.com 
 
 <!---
